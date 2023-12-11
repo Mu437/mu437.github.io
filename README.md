@@ -23,6 +23,7 @@
 1. Run `bundle clean` to clean up the directory (no need to run `--force`)
 1. Run `bundle install` to install ruby dependencies. 如果出现错误，请删除 Gemfile.lock 并重试。
 1. Run `bundle exec jekyll liveserve` to generate the HTML and serve it from `localhost:4000` 本地服务器将在更改时自动重建和刷新页面.
+1. 如果以上遇到问题，则 Run `bundle exec jekyll serve -l`， 可以参考这一条 [issue](https://github.com/jekyll/jekyll/issues/9451) 
 
 # 变更日志——错误修正和增强
 

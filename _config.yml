@@ -10,13 +10,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "周律邦 / Academics Page"
+title                    : "Lianrui Mu (牟联瑞) / Academics Page"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Lianrui Mu"
 description              : &description "personal description"
-url                      : https://zhoulvbang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://mu437.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "zhoulvbang/zhoulvbang.github.io"
+repository               : "mu437/mu437.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -34,14 +34,14 @@ comments:
     num_posts            : # 5 (default)
     colorscheme          : # "light" (default), "dark"
 staticman:
-  allowedFields          : ['name', 'email', 'url', 'message','zhihu']
+  allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
   commitMessage          : "New comment."
   filename               : comment-{@timestamp}
   format                 : "yml"
   moderation             : true
   path                   : "_data/comments/{options.slug}"
-  requiredFields         : ['name', 'email', 'message', 'zhihu']
+  requiredFields         : ['name', 'email', 'message']
   transforms:
     email                : "md5"
   generatedFields:
@@ -59,12 +59,12 @@ alexa_site_verification  :
 yandex_site_verification :
 
 # Social Sharing
-twitter:
-  username               : &https://twitter.com/
-facebook:
-  username               : &https://www.facebook.com/
-  app_id                 :
-  publisher              :
+# twitter:
+#   username               : &https://twitter.com/
+# facebook:
+#   username               : &https://www.facebook.com/
+#   app_id                 :
+#   publisher              :
 og_image                 :  # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
@@ -83,15 +83,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "个人信息"
-  avatar           : "academic50k.png"
-  bio              : "清醒的在这个世界混时度日"
-  location         : "湖南·长沙"
-  employer         : "湖南中医药大学"
+  name             : "Lianrui Mu (牟联瑞)"
+  avatar           : "https://raw.githubusercontent.com/Mu437/Mu437.github.io/master/images/academic.jpg"
+  bio              : # ""
+  location         : "China"
+  employer         : "Zhejiang University"
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  zhihu            : "people/zhoulvbang"
-  email            : "zhoulvbang@163.com"
+  googlescholar    : "https://scholar.google.com/citations?user=dCik-2YAAAAJ"
+  zhihu            :
+  email            : "mulianrui@zju.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :  
   bitbucket        :
@@ -100,14 +100,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "zhoulvbang"
+  github           : "mu437"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : # "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
