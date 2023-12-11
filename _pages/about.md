@@ -15,7 +15,7 @@ My research primarily centers around computer vision, with a particular emphasis
 
 ## <i class="fa fa-fw fa-rss "></i> Recent News ##
 
-<ul style="width: auto; height: 160px; overflow: auto">
+<ul style="width: auto; height: 20px; overflow: auto">
 
 <!-- <li> <b>2023/09</b>: Content. </li> -->
 <li> <b>2022/09</b>: Join Prof. <a href="https://person.zju.edu.cn/en/huhaoji">Hu</a>'s lab at Zhejiang University. </li>
@@ -28,7 +28,7 @@ My research primarily centers around computer vision, with a particular emphasis
 
 <tr style="border-collapse: separate; border-spacing:30em;">
   <td style="border-collapse: collapse; border: none;">
-    <img src="https://raw.githubusercontent.com/Mu437/Mu437.github.io/master/images/pipeline_teg_dg.png" width="690" />
+    <img src="https://raw.githubusercontent.com/Mu437/Mu437.github.io/master/images/pipeline_teg_dg_small.png" width="800" />
   </td>
   <td style="border-collapse: collapse; border: none;">
     <b>Lianrui Mu</b>, Jianhong Bai, Xiaoxuan He et al.
@@ -45,16 +45,16 @@ My research primarily centers around computer vision, with a particular emphasis
 
 <tr style="border-collapse: separate; border-spacing:30em;">
   <td style="border-collapse: collapse; border: none;">
-    <img src="https://raw.githubusercontent.com/Mu437/Mu437.github.io/master/images/pipeline_neurips23.svg" width="690" />
+    <img src="https://raw.githubusercontent.com/Mu437/Mu437.github.io/master/images/pipeline_neurips23_small.png" width="500" />
   </td>
   <td style="border-collapse: collapse; border: none;">
-    <b>Jianhong Bai</b>, Zuozhu Liu, Hualiang Wang, Ruizhe Chen, <b>Lianrui Mu</b> et al.
+    Jianhong Bai, Zuozhu Liu, Hualiang Wang, Ruizhe Chen, <b>Lianrui Mu</b> et al.
     "Towards Distribution-Agnostic Generalized Category Discovery".
     In <b>NeurIPS</b> 2023.<br>
     <img src="https://raw.githubusercontent.com/Mu437/Mu437.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
     <span><a href="https://arxiv.org/abs/2310.01376">Arxiv</a></span><br>
     <img src="https://raw.githubusercontent.com/Mu437/Mu437.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
-    <span><a href="https://github.com/Mu437/BaCon">Code</a></span>
+    <span><a href="https://github.com/JianhongBai/BaCon">Code</a></span>
   </td>
 </tr>
   
@@ -64,7 +64,7 @@ My research primarily centers around computer vision, with a particular emphasis
 
 <tr style="border-collapse: separate; border-spacing:30em;">
   <td style="border-collapse: collapse; border: none;">
-    <img src="https://raw.githubusercontent.com/Mu437/Mu437.github.io/master/images/pipeline_ris.png" width="690" />
+    <img src="https://raw.githubusercontent.com/Mu437/Mu437.github.io/master/images/pipeline_ris_small.png" width="500" />
   </td>
   <td style="border-collapse: collapse; border: none;">
     Jianhong Bai, Yuchen Yang, Huanpeng Chu ,Hualiang Wang, Zuozhu Liu, Ruizhe Chen, Xiaoxuan He, <b>Lianrui</b> Mu et al.
