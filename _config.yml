@@ -85,9 +85,9 @@ analytics:
 author:
   name             : "Lianrui Mu (牟联瑞)"
   avatar           : "https://raw.githubusercontent.com/Mu437/Mu437.github.io/master/images/academic.jpg"
-  bio              : # ""
-  location         : "China"
-  employer         : "Zhejiang University"
+  bio              : "Second year Ph.D. candidate"
+  location         : # "China"
+  employer         : "Zhejiang University, China"
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=dCik-2YAAAAJ"
   zhihu            :
@@ -113,7 +113,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : ""
+  twitter          : # ""
   vine             :
   weibo            :
   youtube          :

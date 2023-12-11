@@ -45,7 +45,7 @@ My research primarily centers around computer vision, with a particular emphasis
 
 <tr style="border-collapse: separate; border-spacing:30em;">
   <td style="border-collapse: collapse; border: none;">
-    <img src="https://raw.githubusercontent.com/Mu437/Mu437.github.io/master/images/pipeline_neurips23.svg" width="685" />
+    <img src="https://raw.githubusercontent.com/Mu437/Mu437.github.io/master/images/pipeline_neurips23.svg" width="690" />
   </td>
   <td style="border-collapse: collapse; border: none;">
     <b>Jianhong Bai</b>, Zuozhu Liu, Hualiang Wang, Ruizhe Chen, <b>Lianrui Mu</b> et al.
@@ -64,7 +64,7 @@ My research primarily centers around computer vision, with a particular emphasis
 
 <tr style="border-collapse: separate; border-spacing:30em;">
   <td style="border-collapse: collapse; border: none;">
-    <img src="https://raw.githubusercontent.com/Mu437/Mu437.github.io/master/images/pipeline_ris.png" width="660" />
+    <img src="https://raw.githubusercontent.com/Mu437/Mu437.github.io/master/images/pipeline_ris.png" width="690" />
   </td>
   <td style="border-collapse: collapse; border: none;">
     Jianhong Bai, Yuchen Yang, Huanpeng Chu ,Hualiang Wang, Zuozhu Liu, Ruizhe Chen, Xiaoxuan He, <b>Lianrui</b> Mu et al.
